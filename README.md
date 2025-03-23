@@ -1,5 +1,3 @@
-# Congestion-Control-PCOM-ProjectT
-
 # Congestion Control Project (PCom)
 
 ## Overview
